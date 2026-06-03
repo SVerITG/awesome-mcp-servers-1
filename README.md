@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://raw.githubusercontent.com/SVerITG/Metis_PH/main/system/app-py/static/metis-icon.png" height="14"/> [Metis](https://github.com/SVerITG/Metis_PH) - A private, local research "second brain" for Claude: project-aware memory, cited answers from your own library (won't invent what it can't find), linked notes/meetings/ideas via a domain-specific knowledge layer, daily briefs (news + new papers in your field), a live meeting assistant, cross-pollination across your work, and 34 routed agents. A governed layer between you and the AI, with guardrails like data protection. A Research Cortex.
 
 <br />
 
